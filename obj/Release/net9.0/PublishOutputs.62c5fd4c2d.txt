@@ -1,0 +1,5 @@
+/Users/macuser/Documents/Лаби Політех/Лекції/TCP-UDP demo/out/TCP-UDP demo
+/Users/macuser/Documents/Лаби Політех/Лекції/TCP-UDP demo/out/TCP-UDP demo.dll
+/Users/macuser/Documents/Лаби Політех/Лекції/TCP-UDP demo/out/TCP-UDP demo.deps.json
+/Users/macuser/Documents/Лаби Політех/Лекції/TCP-UDP demo/out/TCP-UDP demo.runtimeconfig.json
+/Users/macuser/Documents/Лаби Політех/Лекції/TCP-UDP demo/out/TCP-UDP demo.pdb
